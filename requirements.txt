@@ -3,3 +3,7 @@ tensorflow
 numpy
 pillow
 requests
+matplotlib
+seaborn
+pandas
+
